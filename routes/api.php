@@ -13,10 +13,6 @@ use Illuminate\Http\Request;
 |
 */
 
-
-Route::singularResourceParameters();
 Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
-
-Route::resource('articles', 'ArticlesController');
