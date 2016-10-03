@@ -79,6 +79,7 @@
                 </div>
 
                 <div class="links">
+                    <a href="https://www.youtube.com/watch?v=AKFoJ2YDPmI&list=PLFEMeqXSeh3xpnSCvL66t87_LcTNYOoFL&index=1">LARVEL APZ</a>
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
